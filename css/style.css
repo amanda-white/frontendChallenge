@@ -21,6 +21,8 @@ ul li ul li {
   height: 79px;
 }
 
+
+
 .left, .right {
   width: 12%;
   vertical-align: middle;
@@ -32,7 +34,7 @@ ul li ul li {
 .center {
  width: 50%;
  vertical-align: middle;
- padding-left: 10px;
+ padding-left: 12px;
  padding-top:20px;
 }
 
@@ -53,8 +55,14 @@ ul li ul li {
   text-align: center;
   font-size: 27px;
   font-weight: 700;
+  padding-top: 25px;
 }
-
+.c-center{
+  width: 45%;
+  vertical-align: middle;
+  padding-left: 12px;
+  padding-top:20px;
+}
 .not-in-service {
   color: #636363;
   background-color: #C4C4C4;
